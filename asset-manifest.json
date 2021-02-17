@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/two_dduk_bundang/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/two_dduk_bundang/static/js/main.8e89d367.chunk.js",
+    "main.js.map": "/two_dduk_bundang/static/js/main.8e89d367.chunk.js.map",
+    "runtime-main.js": "/two_dduk_bundang/static/js/runtime-main.25db28c9.js",
+    "runtime-main.js.map": "/two_dduk_bundang/static/js/runtime-main.25db28c9.js.map",
+    "static/js/2.7c96034c.chunk.js": "/two_dduk_bundang/static/js/2.7c96034c.chunk.js",
+    "static/js/2.7c96034c.chunk.js.map": "/two_dduk_bundang/static/js/2.7c96034c.chunk.js.map",
+    "static/js/3.34c5c932.chunk.js": "/two_dduk_bundang/static/js/3.34c5c932.chunk.js",
+    "static/js/3.34c5c932.chunk.js.map": "/two_dduk_bundang/static/js/3.34c5c932.chunk.js.map",
+    "index.html": "/two_dduk_bundang/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/two_dduk_bundang/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7c96034c.chunk.js.LICENSE.txt": "/two_dduk_bundang/static/js/2.7c96034c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/two_dduk_bundang/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25db28c9.js",
+    "static/js/2.7c96034c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.8e89d367.chunk.js"
+  ]
+}
