@@ -1,0 +1,45 @@
+
+.Mind_Text{
+    width : 60%;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.Mind_Text h1{
+    margin: 0;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
+
+
+.Mind_Text p{
+    font-size: x-large;
+}
+
+.Mind_Text p:last-child{
+    position: relative;
+    left: 600px;
+    opacity: 0.7;
+}
+
+.Mind_Img{
+    width: 40%;
+}
+
+.Mind_Text_One{
+    margin-bottom: 50px;
+    border-bottom: 1px dashed rgb(0, 0, 0, 0.2);
+}
+
+.Mind_Text_Two p:nth-child(4){
+    position: relative;
+    left: 500px;
+    top: 100px;
+    font-size: medium;
+}
+
+.Mind_Text_Two img{
+    position: relative;
+    left: 650px;
+    top: 0px;
+}

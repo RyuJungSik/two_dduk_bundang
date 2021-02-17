@@ -1,0 +1,37 @@
+.Navigation{
+    margin-bottom: 0pt;
+    border-bottom: solid;
+    border-bottom: 1px solid rgba(138, 43, 226, 0.2);
+    border-bottom-width: 2px;
+}
+
+.Navigation ul{
+    margin-bottom: 0pt;
+    list-style:none;
+    padding-left:5px;
+    padding-right:5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+ 
+.Navigation ul li{
+    float:left;
+    margin:0px;
+    padding: 0px;
+    font-size :xx-large;
+    color : black;
+}
+
+.Navigation ul li :hover{
+    color :blueviolet;
+
+}
+
+.Navigation ul li img{
+    margin : 0px;
+    padding : 0px;
+    width: 180px;
+    height: 80px;
+}
+
