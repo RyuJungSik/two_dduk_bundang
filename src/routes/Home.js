@@ -1,19 +1,16 @@
 import { faMedal } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import React from 'react';
+import React, { useEffect } from 'react';
 import SimpleSlider from '../components/SimpleSlider';
 
-
 const Home = () => {
-
   return (
     <div className="home">
       <div className="home_img">
-        <SimpleSlider/>
-          </div>
+        <SimpleSlider />
+      </div>
       <h1>분당점 이달의 인기메뉴</h1>
       <div className="home_rank" >
-
         <div className="home_rank_one">
           <div className="home_rank_number">
             <p> <FontAwesomeIcon icon={faMedal} size="1x" style={{ color: "white" }} /> 1위<FontAwesomeIcon icon={faMedal} size="2x" style={{ color: "white" }} /></p>
@@ -36,9 +33,10 @@ const Home = () => {
           <img src="https://firebasestorage.googleapis.com/v0/b/twodduk-37b88.appspot.com/o/images%2Frank4.png?alt=media&token=2e841203-1090-4caa-957c-041c935e9fda" />
           <p>짜파구떡</p>
         </div>
-
       </div>
     </div>
+
+
   )
 }
 

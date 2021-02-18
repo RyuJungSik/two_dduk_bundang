@@ -55,21 +55,21 @@
 }
 
 .home_rank :first-child img{
-    width: 350px;
-    height: 350px;
-}
-
-.home_rank :nth-child(2) img{
     width: 300px;
     height: 300px;
 }
 
-.home_rank :nth-child(3) img{
+.home_rank :nth-child(2) img{
     width: 250px;
     height: 250px;
 }
 
-.home_rank :nth-child(4) img{
+.home_rank :nth-child(3) img{
     width: 200px;
     height: 200px;
+}
+
+.home_rank :nth-child(4) img{
+    width: 170px;
+    height: 170px;
 }
