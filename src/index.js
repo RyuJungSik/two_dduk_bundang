@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
+import fbase from "./fbase";
+
 import "./csscomponents/styles.css";
 import "./csscomponents/Navigation.css";
 import "./csscomponents/Home.css";

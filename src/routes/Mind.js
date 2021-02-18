@@ -21,12 +21,12 @@ const Mind = () => {
                         <p>그러나 진정한 당당함은 내 자신에게 당당할 수 있는것.</p>
                         <p>그 진정한 당당함을 꿈꿉니다.</p>
                         <p>두떡 분당점 대표</p>
-                        <img src="\images\sign.jpg" style={{ width: "200px", height: "100px" }} />
+                        <img src="https://firebasestorage.googleapis.com/v0/b/twodduk-37b88.appspot.com/o/images%2Fsign.jpg?alt=media&token=2ac9b909-f46c-45fb-a911-27875112bb1f" style={{ width: "200px", height: "100px" }} />
                     </div>
                 </div>
 
                 <div className="Mind_Img">
-                    <img src="\images\repre.jpg" style={{ width : "120%", height: "700px" }} />
+                    <img src="https://firebasestorage.googleapis.com/v0/b/twodduk-37b88.appspot.com/o/images%2Frepre.jpg?alt=media&token=fcb11422-f887-4a77-852f-862405dd6442" style={{ width : "120%", height: "700px" }} />
                 </div>
            
            </div>

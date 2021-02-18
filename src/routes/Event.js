@@ -9,7 +9,7 @@ const Event=()=>{
                 <p>01/10 ~ 종료일까지</p>
             </div>
             <div className="Event_Desc">
-                <img src="\images\event.jpg" style={{width: "100%", height: "400px" }} />
+                <img src="https://firebasestorage.googleapis.com/v0/b/twodduk-37b88.appspot.com/o/images%2Fevent.jpg?alt=media&token=f536af09-68c6-429e-b181-0c3b70945522" style={{width: "100%", height: "400px" }} />
                 <p>1 . 행사 명칭 : 분당점 오픈기념 리뷰이벤트</p>
                 <p>2 . 행사 기간 : 21년 1월 3일 ~ 종료일까지</p>
                 <p>3 . 행사 제품 : </p>
