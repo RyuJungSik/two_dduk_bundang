@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/two_dduk_bundang/static/css/main.2e484e27.chunk.css",
+    "main.css": "/two_dduk_bundang/static/css/main.26b9a568.chunk.css",
     "main.js": "/two_dduk_bundang/static/js/main.3a69d23d.chunk.js",
     "main.js.map": "/two_dduk_bundang/static/js/main.3a69d23d.chunk.js.map",
     "runtime-main.js": "/two_dduk_bundang/static/js/runtime-main.de311e61.js",
@@ -10,14 +10,14 @@
     "static/js/2.508354d9.chunk.js.map": "/two_dduk_bundang/static/js/2.508354d9.chunk.js.map",
     "index.html": "/two_dduk_bundang/index.html",
     "static/css/2.674c27c3.chunk.css.map": "/two_dduk_bundang/static/css/2.674c27c3.chunk.css.map",
-    "static/css/main.2e484e27.chunk.css.map": "/two_dduk_bundang/static/css/main.2e484e27.chunk.css.map",
+    "static/css/main.26b9a568.chunk.css.map": "/two_dduk_bundang/static/css/main.26b9a568.chunk.css.map",
     "static/js/2.508354d9.chunk.js.LICENSE.txt": "/two_dduk_bundang/static/js/2.508354d9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.de311e61.js",
     "static/css/2.674c27c3.chunk.css",
     "static/js/2.508354d9.chunk.js",
-    "static/css/main.2e484e27.chunk.css",
+    "static/css/main.26b9a568.chunk.css",
     "static/js/main.3a69d23d.chunk.js"
   ]
 }
